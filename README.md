@@ -30,3 +30,8 @@
 |컴퓨팅사고와문제해결-융합|Python 기초|2|
 |소프트웨어세미나1|최신 소프트웨어 트랜드|1|
 |자바프로그래밍1|Java 기초|3|
+
+
+github address: [sonwonyeong][github]
+
+[github]:http://github.com/sonwonyeong
